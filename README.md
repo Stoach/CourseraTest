@@ -1,3 +1,3 @@
-# CourseraTest
+# Coursera
 Test
 Wow
